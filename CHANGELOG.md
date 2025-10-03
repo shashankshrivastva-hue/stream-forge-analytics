@@ -9,3 +9,4 @@ All notable changes documented here.
 - **2025-09-28**: feat: compute rolling standard deviation alongside p95 percentiles
 - **2025-10-01**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
 - **2025-10-01**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
+- **2025-10-03**: test: test event ordering with simulated network out-of-order arrivals
