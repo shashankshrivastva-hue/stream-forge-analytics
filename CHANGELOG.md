@@ -13,3 +13,4 @@ All notable changes documented here.
 - **2025-10-06**: feat: compute rolling standard deviation alongside p95 percentiles
 - **2025-10-09**: perf: optimize sliding window buffer memory eviction
 - **2025-10-13**: test: test event ordering with simulated network out-of-order arrivals
+- **2025-10-15**: refactor: decouple event stream producer from aggregate store
