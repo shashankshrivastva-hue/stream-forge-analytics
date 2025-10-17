@@ -15,3 +15,4 @@ All notable changes documented here.
 - **2025-10-13**: test: test event ordering with simulated network out-of-order arrivals
 - **2025-10-15**: refactor: decouple event stream producer from aggregate store
 - **2025-10-15**: docs: document hopping vs tumbling window latency trade-offs
+- **2025-10-17**: feat: compute rolling standard deviation alongside p95 percentiles
