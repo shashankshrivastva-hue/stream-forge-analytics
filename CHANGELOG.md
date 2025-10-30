@@ -20,3 +20,4 @@ All notable changes documented here.
 - **2025-10-23**: feat: compute rolling standard deviation alongside p95 percentiles
 - **2025-10-24**: perf: optimize sliding window buffer memory eviction
 - **2025-10-26**: test: test event ordering with simulated network out-of-order arrivals
+- **2025-10-31**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
