@@ -25,3 +25,4 @@ All notable changes documented here.
 - **2025-11-03**: docs: document hopping vs tumbling window latency trade-offs
 - **2025-11-05**: feat: compute rolling standard deviation alongside p95 percentiles
 - **2025-11-07**: style: enforce strict async typing across WebSocket handlers
+- **2025-11-09**: refactor: decouple event stream producer from aggregate store
