@@ -27,3 +27,4 @@ All notable changes documented here.
 - **2025-11-07**: style: enforce strict async typing across WebSocket handlers
 - **2025-11-09**: refactor: decouple event stream producer from aggregate store
 - **2025-11-13**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
+- **2025-11-13**: docs: document hopping vs tumbling window latency trade-offs
