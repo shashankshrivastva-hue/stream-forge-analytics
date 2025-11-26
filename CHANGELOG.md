@@ -32,3 +32,4 @@ All notable changes documented here.
 - **2025-11-17**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
 - **2025-11-19**: refactor: decouple event stream producer from aggregate store
 - **2025-11-23**: feat: compute rolling standard deviation alongside p95 percentiles
+- **2025-11-26**: perf: optimize sliding window buffer memory eviction
