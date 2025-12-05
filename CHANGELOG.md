@@ -35,3 +35,4 @@ All notable changes documented here.
 - **2025-11-26**: perf: optimize sliding window buffer memory eviction
 - **2025-11-30**: docs: document hopping vs tumbling window latency trade-offs
 - **2025-12-02**: feat: add watermark delay handler for late-arriving IoT metrics
+- **2025-12-05**: style: enforce strict async typing across WebSocket handlers
