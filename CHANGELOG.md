@@ -38,3 +38,4 @@ All notable changes documented here.
 - **2025-12-05**: style: enforce strict async typing across WebSocket handlers
 - **2025-12-07**: feat: add watermark delay handler for late-arriving IoT metrics
 - **2025-12-11**: docs: document hopping vs tumbling window latency trade-offs
+- **2025-12-14**: fix: handle WebSocket client disconnects cleanly without logging tracebacks
